@@ -42,7 +42,7 @@ What is the average daily activity pattern?
 ## 5-minute interval that had the maximum number of steps
 Which 5-minute interval, on average across all the days in the dataset, contains the maximum number of steps?
 
-# 6 Imputing missing values
+## 6 Imputing missing values
 Note that there are a number of days/intervals where there are missing values (coded as NA). The presence of missing days may introduce bias into some calculations or summaries of the data.
 
 Calculate and report the total number of missing values in the dataset (i.e. the total number of rows with NAs)
