@@ -1,5 +1,5 @@
 ---
-title: " Data Sci _ Reproducible Research_ Project 1"
+title: " Analyze Daily Step Activjty from an Activity Monitor"
 author: "Hadia Akbar"
 output: 
   html_document: 
